@@ -1,0 +1,5 @@
+python -m venv venV - создать 
+.\venV\Scripts\activate - активировать
+python3 manage.py runserver - поднимаем сервер
+ctrl+c - крашнуть сервер
+python3 manage.py startapp generator - создает приложение generator в нашем проекте
